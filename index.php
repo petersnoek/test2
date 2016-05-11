@@ -4,4 +4,6 @@
 
     echo 'hallo, wereld!';
 
+    echo 'tweede regel';
+
     require 'inc/_footer.tpl.php';
