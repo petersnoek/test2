@@ -12,6 +12,8 @@ $lucas = new Person('Lukas', 'kleihn', 'Hanenburgt');
 
 echo '<h1>Welkom!</h1>';
 
+echo 'çonflict!';
+
 // print the contents
 echo $tristan->ToString();
 echo '<br/>';
